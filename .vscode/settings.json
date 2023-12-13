@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/00a62b76-638b-45b7-a16e-bd9fd281f1ff/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/fu-recent-flask",
+    "appService.deploySubpath": "."
+}
